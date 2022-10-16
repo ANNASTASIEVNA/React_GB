@@ -1,0 +1,28 @@
+.messageList {
+    box-sizing: border-box;
+    padding: 0 0 0 45px;
+    list-style-type: none;
+    margin: 20px;
+    width: 500px;
+    height: 300px;
+    overflow: scroll;
+    border: 1px solid rgb(141, 177, 229);
+    background: #8833de;
+  }
+  .authorText{
+    font-size: 12px;
+    color: #080505;
+    margin-top: 7px;
+  }
+  .messageText{
+    font-size: 16px;
+    width: 100%;
+    background: rgb(210, 235, 114);
+    border-radius: 8px;
+    color: white;
+    padding: 4px;
+  }
+  .inputText{
+    margin: 10px;
+  }
+ 
