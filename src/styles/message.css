@@ -1,0 +1,16 @@
+.container {
+    padding-bottom: 10px;
+}
+
+.autor {
+    font-weight: bold;
+    margin-right: 10px;
+
+}
+
+.Messages_contaner {
+    width: 100%;
+    padding: 10px;
+    border: solid 1px #474a51;
+    border-radius: 10px;
+}
